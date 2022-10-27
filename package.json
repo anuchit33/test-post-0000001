@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "test-post-0000001:toggle"
   },
-  "repository": "https://github.com/atom/test-post-0000001",
+  "repository": "https://github.com/anuchit33/test-post-0000001",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
